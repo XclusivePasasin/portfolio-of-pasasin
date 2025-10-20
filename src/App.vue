@@ -189,7 +189,7 @@
 
               <div class="space-y-4">
                 <a
-                  href="mailto:test@example.com"
+                  href="mailto:eliazar.rebollo23@gmail.com"
                   class="group flex items-center gap-3 text-foreground hover:text-muted-foreground transition-colors duration-300"
                 >
                   <span class="text-base sm:text-lg">eliazar.rebollo23@gmail.com</span>
